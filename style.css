@@ -1,0 +1,43 @@
+body {
+    background-color:lightblue;
+}
+.main-container{
+    margin-bottom: 25px;
+}
+.navigationall{
+    display: flex;
+    margin: 30px;
+}
+.navandbody{
+    display: flex;
+}
+.nav2{
+    display: flex;
+    
+}
+.image1{
+    width: 60%;
+    height: 60%;
+    margin: 20px;
+}
+#btn1{
+    margin-left: 830px;
+}
+#box2{
+    display: flex;
+}
+.about{
+    margin: 50px;
+    width: 40%;
+}
+h2{
+    text-align: center;
+}
+#btn2{
+    margin-left: 300px;
+    
+}
+h1{
+    text-align: center;
+}
+
