@@ -40,4 +40,7 @@ h2{
 h1{
     text-align: center;
 }
-
+/* Admin */
+#main-admin{
+    display: flex;
+}
